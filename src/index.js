@@ -120,7 +120,10 @@ function Footer() {
           <button className="btn">Order</button>
         </div>
       ) : (
-        <p>Sorry, We are closed. Please come back between noon to 10pm.</p>
+        <p>
+          Sorry, We are closed. Please come back between noon to 10pm. Thank
+          you!
+        </p>
       )}
     </footer>
   );
